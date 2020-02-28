@@ -1,0 +1,6 @@
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\bin\Debug\ExercicioLista.exe.config
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\bin\Debug\ExercicioLista.exe
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\bin\Debug\ExercicioLista.pdb
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\obj\Debug\ExercicioLista.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\obj\Debug\ExercicioLista.exe
+C:\Users\Heliton\source\repos\ExercicioLista\ExercicioLista\obj\Debug\ExercicioLista.pdb
